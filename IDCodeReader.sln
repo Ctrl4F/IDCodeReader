@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Substring", "Substring\Subs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogItpe20", "LogItpe20\LogItpe20.csproj", "{F69F4172-73AB-40A6-811F-7CD96F989401}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YearValidation", "YearValidation\YearValidation.csproj", "{CEFB67B0-42EA-4F65-B4B4-B0385715C1F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YearValidation", "YearValidation\YearValidation.csproj", "{CEFB67B0-42EA-4F65-B4B4-B0385715C1F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CVVValidation", "CVVValidation\CVVValidation.csproj", "{85C99BCD-FA36-4573-8661-AAAF3D8C4C23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{CEFB67B0-42EA-4F65-B4B4-B0385715C1F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEFB67B0-42EA-4F65-B4B4-B0385715C1F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEFB67B0-42EA-4F65-B4B4-B0385715C1F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85C99BCD-FA36-4573-8661-AAAF3D8C4C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C99BCD-FA36-4573-8661-AAAF3D8C4C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C99BCD-FA36-4573-8661-AAAF3D8C4C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C99BCD-FA36-4573-8661-AAAF3D8C4C23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
